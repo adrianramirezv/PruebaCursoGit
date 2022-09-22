@@ -1,3 +1,1 @@
-Subiendo archivo al git modificado para jalar lo cambios 1.1
-
-Estamos en la primera rama
+Solo me quede con un texto
